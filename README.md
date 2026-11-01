@@ -1,7 +1,5 @@
 # Dizin Kaynakları
 
-- [https://sites.google.com/view/avukatismailcavus/](https://sites.google.com/view/avukatismailcavus/)
-- [https://corludahaber.com/h/is-kazasi-sonrasi-iscinin-haklari-bildirimden-tazminat-davasina/125775](https://corludahaber.com/h/is-kazasi-sonrasi-iscinin-haklari-bildirimden-tazminat-davasina/125775)
-- [https://inbursa.com.tr/ankara-avukat/](https://inbursa.com.tr/ankara-avukat/)
+- [https://www.facebook.com/ankaraisavukati/](https://www.facebook.com/ankaraisavukati/)
 
-*Güncelleme: 2026-11-01 05:06:16*
+*Güncelleme: 2026-11-01 05:10:36*
